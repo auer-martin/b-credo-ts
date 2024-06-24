@@ -17,7 +17,7 @@
     "@hyperledger/indy-vdr-nodejs": "^0.2.2",
     "@hyperledger/anoncreds-nodejs": "^0.2.2",
     "@hyperledger/aries-askar-nodejs": "^0.2.1",
-    "inquirer": "^8.2.5"
+    "inquirer": "^9.2.23"
   },
   "devDependencies": {
     "@credo-ts/anoncreds": "*",
@@ -27,7 +27,7 @@
     "@credo-ts/cheqd": "*",
     "@credo-ts/node": "*",
     "@types/figlet": "^1.5.4",
-    "@types/inquirer": "^8.2.6",
+    "@types/inquirer": "^9.0.7",
     "clear": "^0.1.0",
     "figlet": "^1.5.2",
     "ts-node": "^10.4.0"
